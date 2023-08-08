@@ -34,7 +34,7 @@ public class BaseController {
     //5. init git repository
     //6. create branches
     //7. make commit
-    //8. push commit
+    //8. push commit!
     //9. pull request & merge
 
     //10. IDEA - DB (Spring JPA, ORM, JDBC), WEB (Spring MVC, RESTful API), TEST (JUnit - Unit Tests, Integration tests)
